@@ -1,1 +1,1 @@
-data science demos
+Data Science lectures for Spring Valley
